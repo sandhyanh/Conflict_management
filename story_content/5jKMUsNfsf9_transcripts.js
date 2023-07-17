@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":96,"text":"Hello and welcome to the lesson, Introduction to Conflict."},{"start":3344,"text":"In this video, you will learn the meaning of the"},{"start":5760,"text":"term conflict and identify the reasons for conflicts."},{"start":10084,"text":"A conflict is a disagreement or an argument in which one or both"},{"start":13752,"text":"sides are NOT willing to negotiate or compromise."},{"start":18140,"text":"A conflict arises from differences in values,"},{"start":21081,"text":"motivations, perceptions, ideas, or desires."},{"start":25844,"text":"Conflicts are normal and can arise at"},{"start":28108,"text":"both the personal and the professional level."},{"start":30540,"text":"In this video, you learned about the meaning of the term conflict."},{"start":34404,"text":"You also learned why conflicts arise."},{"start":37053,"text":"In the next video, you will learn about the types of conflicts."},{"start":40505,"text":"Before we move ahead, here is an activity for you."}]}]};
+    window.globalLoadJsAsset('story_content/5jKMUsNfsf9_transcripts.js', JSON.stringify(data));
+})();
